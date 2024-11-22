@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "img": "5c22f7d1c35a20534d564c93abb5f86279e2abd3.avif",
+    "name": "Cloth 2"
+  },
+  {
+    "id": 3,
+    "img": "5d04b187d7f287ced245dca3994db5cda490c279.avif",
+    "name": "Cloth 3"
+  },
+  {
+    "id": 5,
+    "img": "5ed9eba3f19c7ad00b59bae325c200766d8c4da0.avif",
+    "name": "Cloth 5"
+  },
+  {
+    "id": 1,
+    "name": "Cloth ",
+    "img": "1732248838298-workplace.jpg"
+  }
+]
